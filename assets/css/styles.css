@@ -390,7 +390,7 @@ img {
   row-gap: 0;
 }
 
-.skills{
+.skills__header{
   display: flex;
   align-items: center;
   margin-bottom: var(--mb-2-5);
@@ -421,10 +421,60 @@ img {
   transition: .4s;
 }
 
+.skills__list{
+  row-gap: 1.5rem;
+  padding-left: 2.7rem;
+}
+
 .skills__titles{
   display: flex;
   justify-content: space-between;
   margin-bottom: var(--mb-0-5);
+}
+
+.skills__name{
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+}
+
+.skills__bar,
+.skills__percentage{
+  height: 5px;
+  border-radius: .25rem;
+}
+
+.skills__bar{
+  background-color: var(--first-color-lighter);
+}
+
+.skills__percentage{
+  display: block;
+  background-color: var(--first-color);
+}
+
+.skills__html{
+  width: 80%;
+}
+.skills__docker{
+  width: 70%;
+}
+.skills__kube{
+  width: 60%;
+}
+.skills__argo{
+  width: 60%;
+}
+.skills__css{
+  width: 70%;
+
+}.skills__js{
+  width: 40%;
+}
+.skills__java{
+  width: 70%;
+}
+.skills__python{
+  width: 50%;
 }
 /*==================== QUALIFICATION ====================*/
 
