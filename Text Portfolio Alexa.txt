@@ -44,7 +44,7 @@ I get a good impression, I carry out my project with all the possible quality an
 * FOOTER
 footer__social
 https://www.facebook.com/
-https://www.instagram.com/
+https://www.instagram.com/sourav_sovu_
 https://twitter.com/sourav_sovu_
 
 
