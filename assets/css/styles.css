@@ -345,6 +345,10 @@ img {
   display: inline-flex;
   align-items: center;
 }
+
+.button--small{
+  
+}
 /*==================== ABOUT ====================*/
 
 .about__img{
@@ -598,6 +602,15 @@ img {
 .services__button{
   cursor: pointer;
   font-size: var(--small-font-size);
+}
+
+.services__button:hover .button__icon{
+  transform: translateX(.25rem);
+}
+
+.services__modal{
+  position: fixed;
+  top: 0;
 }
 
 /* Active Modal */
