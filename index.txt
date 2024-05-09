@@ -2,14 +2,14 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Sourav Kumar
+Sourav Kumar
+DevOps Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+souravk326@gmail.com
 
 Phone
 +1 (213) 352-2795
@@ -18,7 +18,7 @@ Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Pune, Indian
 
 # navbar
 
